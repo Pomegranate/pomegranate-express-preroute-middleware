@@ -1,0 +1,28 @@
+{
+  "name": "pomegranate-express-preroute-middleware",
+  "version": "0.0.0",
+  "description": "Provides middleware mounting and express configuration for Pomegranate-Express",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pomegranate/pomegranate-express-preroute-middleware.git"
+  },
+  "keywords": [
+    "Pomegranate",
+    "Plugin",
+    "Express"
+  ],
+  "author": "Jim <monstertke@paperelectron.com> (http://paperelectron.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pomegranate/pomegranate-express-preroute-middleware/issues"
+  },
+  "homepage": "https://github.com/Pomegranate/pomegranate-express-preroute-middleware"
+}
