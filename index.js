@@ -23,8 +23,8 @@ module.exports = {
   },
   metadata: {
     name: 'PreRouter',
-    layer: 'pre_router',
-    type: 'none'
+    type: 'none',
+    optional: ['Middleware']
   },
   plugin: {
     load: function(inject, loaded){
