@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-express-preroute-middleware",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Provides middleware mounting and express configuration for Pomegranate-Express",
   "main": "index.js",
   "dependencies": {
