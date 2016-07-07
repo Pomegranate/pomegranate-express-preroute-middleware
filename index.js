@@ -24,7 +24,7 @@ module.exports = {
   metadata: {
     name: 'PreRouter',
     type: 'none',
-    optional: ['Middleware']
+    optional: ['Middleware', 'ExpressConfig']
   },
   plugin: {
     load: function(inject, loaded){
